@@ -4,7 +4,7 @@
 
 In these materials, you'll learn about many of the features and productivity tools available in [PhpStorm](http://www.jetbrains.com/phpstorm). Examples are navigation, editing, inspections, live templates, refactoring, tools like Composer and the HTTP client, and many more. It's virtually impossible to cover every option and feature in PhpStorm, but we're providing a number of practical exercises on how we can do our daily work as PHP developers.
 
-We'll also cover a vast amount of keyboard shortcuts to make working with PhpStorm more efficient. Other IntelliJ-based IDE's use the same keyboard shortcuts, so if you know how to work with PhpStorm, you'll know how to work with WebStorm, RubyMine, PyCharm, IntelliJ IDEA and more. A [cheat sheet is available online](http://bit.ly/1Ni0XJ0) and is also included in the workshop download.
+We'll also cover a vast amount of keyboard shortcuts to make working with PhpStorm more efficient. Other IntelliJ-based IDE's use the same keyboard shortcuts, so if you know how to work with PhpStorm, you'll know how to work with WebStorm, RubyMine, PyCharm, IntelliJ IDEA and more. A [cheat sheet is available online](https://github.com/JetBrains/phpstorm-workshop) and is also included in the workshop download.
 
 This workshop is self-paced, meaning you can work your way through exercises on your own, whenever and wherever you want. Exercises come as a PhpStorm project in which every file is a new exercise that may contain code and tips to get things done.
 
@@ -69,7 +69,7 @@ There are some things to know about the project:
 * The project can be opened as is in PhpStorm. We've included configurations for PHP Remote Interpreter, Database, Deployment Server, PHP Web Debug, PHPUnit and Behat.
 * All numbered folders contain exercises that you can work on. Simply open the numbered files one by one and follow the comments in the file. Most exercises are self-contained, others build on previous exercises.
 * Some of the exercises (like this one) are in *Markdown* format. You can read these files easier by toggling *View* to *Show Preview Only* in the top-right corner.
-* The `PhpStorm Reference Card.pdf` is the PhpStorm keymap. The latest version can always be found on the [PhpStorm website](http://bit.ly/1Ni0XJ0).
+* The `PhpStorm Reference Card.pdf` is the PhpStorm keymap. The latest version can always be found on the [PhpStorm website](https://www.jetbrains.com/phpstorm/documentation/docs/PhpStorm_ReferenceCard.pdf).
 
 ## Open Source and Contribution
 The workshop is Open Source, licensed under the Apache 2 license. If you would like to contribute to the workshop materials, please feel free to fork the repo and send us a pull request. Or if you have a comment, question, or suggestion for improvements, please [raise an issue](https://github.com/JetBrains/phpstorm-workshop/issues).
